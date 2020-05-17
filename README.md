@@ -1,4 +1,4 @@
-# Tema-Matrix-js
+# Tema Matrix em JavaScript
 Tema do filme Matrix feito em JavaScript.
 
 ### Como visualizar?
